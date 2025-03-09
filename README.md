@@ -1,0 +1,2 @@
+We need to transpose a vector or matrix, The solution is Use the T method, Transposing is a common operation in linear algebra where the column and row indices of each element are swapped. One nuanced point that is typically overlooked outside of a linear algebra class is that,
+technically, a vector cannot be transposed because it is just a collection of values However, it is common to refer to transposing a vector as converting a row vector to a column vector (notice the second pair of brackets) or vice versa
